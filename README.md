@@ -6,7 +6,7 @@
 - 📫 Reach me at **manuelringuelet@pm.me**
 - ⚡ Fun fact: I've never eaten met in my entire life!
 
-<h3 align="left">⚗️ My tools:</h3>
+<h3 align="left">⚗️ My Stack:</h3>
 
 #### Development:
 [![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
