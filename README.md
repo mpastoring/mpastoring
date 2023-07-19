@@ -1,7 +1,8 @@
 ### Hi! 👋 I'm Manuel Pastor, a frontend developer aspiring to turn ideas into digital experiences.
 
-- 🔭 I’m currently working on our final project [d'accord](https://github.com/devhausleipzigacademy/camp9-final-project), a voting web app
-- 🌱 I’m currently learning **Next and React.js in [Devhaus](https://devhausleipzig.de/)**
+- 🔭 I recently finished working on our fullstack final project [d'accord](https://github.com/devhausleipzigacademy/camp9-final-project), a voting web app
+- 🔭 I’m currently working on a personal fullstack project [spotify-clone](https://github.com/manuelpastorringuelet/spotify-clone).
+- 🌱 I’m currently expanding my knowledge about **Typescript Next and React.js in [Devhaus](https://devhausleipzig.de/)**
 - 🗣 I speak **English, Spanish and German**
 - 📫 Reach me at **manuelringuelet@pm.me**
 - ⚡ Fun fact: I've never eaten meat in my entire life!
