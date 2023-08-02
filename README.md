@@ -9,7 +9,7 @@
     - 🧠 [genius-ai](https://vercel.com/manuelpastor/genius-ai-manuelpastor) - [GitHub Repo](https://github.com/manuelpastorringuelet/ai-saas) - An AI-powered software as a service (SaaS) application.
 
 - 🌱 Currently Working On:
-    - 🌐 [My personal website]..
+    - 🌐 My personal website.
 
 - 🌟 Learning:
     - 📚 Typescript, Next.js, and React.js in Devhaus.
