@@ -1,11 +1,29 @@
 ### Hi! 👋 I'm Manuel Pastor, a frontend developer aspiring to turn ideas into digital experiences.
 
-- 🔭 I recently finished working on our fullstack final project [d'accord](https://github.com/devhausleipzigacademy/camp9-final-project), a voting web app
-- 🔭 I’m currently working on a personal fullstack project [spotify-clone](https://github.com/manuelpastorringuelet/spotify-clone).
-- 🌱 I’m currently expanding my knowledge about **Typescript Next and React.js in [Devhaus](https://devhausleipzig.de/)**
-- 🗣 I speak **English, Spanish and German**
-- 📫 Reach me at **manuelringuelet@pm.me**
-- ⚡ Fun fact: I've never eaten meat in my entire life!
+- 🎓 I graduated from Code Camp at [Devhaus](https://devhausleipzig.de/) with our full-stack projects:
+    - 🎦 Middle term: [Cinescape](https://camp9-midterm-frontend.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/camp9-midterm) - Cinema booking web app.
+    - 🎉 Final: [d'accord](https://github.com/devhausleipzigacademy/camp9-final-project) - A voting web app.
+
+- 🚀 Recently Finished Personal Projects:
+    - 🎵 [spotify-clone](https://vercel.com/manuelpastor/spotify-clone-manuelpastor) - [GitHub Repo](https://github.com/manuelpastorringuelet/spotify-clone) - A full-stack Spotify clone.
+    - 🧠 [genius-ai](https://vercel.com/manuelpastor/genius-ai-manuelpastor) - [GitHub Repo](https://github.com/manuelpastorringuelet/ai-saas) - An AI-powered software as a service (SaaS) application.
+
+- 🌱 Currently Working On:
+    - 🌐 [My personal website](#) - (Link will be added when deployed.)
+
+- 🌟 Learning:
+    - 📚 Typescript, Next.js, and React.js in Devhaus.
+
+- 🗣 Languages:
+    - 🇬🇧 English
+    - 🇪🇸 Spanish
+    - 🇩🇪 German
+
+- 📫 Contact:
+    - ✉️ manuelringuelet@pm.me
+
+- ⚡ Fun Fact:
+    - 🥦 I've never eaten meat in my entire life!
 
 <h3 align="left">⚗️ My Tools:</h3>
 
