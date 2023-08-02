@@ -5,8 +5,8 @@
     - 🎉 Final: [d'accord](https://github.com/devhausleipzigacademy/camp9-final-project) - A voting web app.
 
 - 🚀 Recently Finished Personal Projects:
-    - 🎵 [spotify-clone](https://vercel.com/manuelpastor/spotify-clone-manuelpastor) - [GitHub Repo](https://github.com/manuelpastorringuelet/spotify-clone) - A full-stack Spotify clone.
-    - 🧠 [genius-ai](https://vercel.com/manuelpastor/genius-ai-manuelpastor) - [GitHub Repo](https://github.com/manuelpastorringuelet/ai-saas) - An AI-powered software as a service (SaaS) application.
+    - 🎵 [spotify-clone](https://spotify-clone-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/spotify-clone) - A full-stack Spotify clone.
+    - 🧠 [genius-ai](https://genius-ai-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/ai-saas) - An AI-powered software as a service (SaaS) application.
 
 - 🌱 Currently Working On:
     - 🌐 My personal website.
