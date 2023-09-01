@@ -2,7 +2,7 @@
 
 - 🎓 I graduated from Code Camp at [Devhaus](https://devhausleipzig.de/) with our full-stack projects:
     - 🎦 Middle term: [Cinescape](https://camp9-midterm-frontend.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/camp9-midterm) - Cinema booking web app.
-    - 🎉 Final: [d'accord](https://github.com/devhausleipzigacademy/camp9-final-project) - A voting web app.
+    - 🎉 Final: [d'accord](https://github.com/manuelpastorringuelet/camp9-final-project) - A voting web app.
 
 - 🚀 Recently Finished Personal Projects:
     - 🎵 [spotify-clone](https://spotify-clone-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/spotify-clone) - A full-stack Spotify clone.
