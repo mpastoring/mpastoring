@@ -1,5 +1,9 @@
 ### Hi! 👋 I'm Manuel Pastor, a frontend developer aspiring to turn ideas into digital experiences.
 
+- 🌱 Currently Working On:
+    - 🌐 [My personal website](https://www.manuelringuelet.com/)
+    - 🚀 [discord-clone](https://github.com/manuelpastorringuelet/discord-clone)
+
 - 🎓 I graduated from Code Camp at [Devhaus](https://devhausleipzig.de/) with our full-stack projects:
     - 🎦 Middle term: [Cinescape](https://camp9-midterm-frontend.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/camp9-midterm) - Cinema booking web app.
     - 🎉 Final: [d'accord](https://github.com/manuelpastorringuelet/camp9-final-project) - A voting web app.
@@ -8,12 +12,8 @@
     - 🎵 [spotify-clone](https://spotify-clone-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/spotify-clone) - A full-stack Spotify clone.
     - 🧠 [genius-ai](https://genius-ai-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/ai-saas) - An AI-powered software as a service (SaaS) application.
 
-- 🌱 Currently Working On:
-    - 🌐 [My personal website](https://www.manuelringuelet.com/)
-    - 🚀 [discord-clone](https://github.com/manuelpastorringuelet/discord-clone)
-
 - 🌟 Learning:
-    - 📚 Typescript, Next.js, and React.js in Devhaus.
+    - 📚 Typescript, Next.js, and React.js.
 
 - 🗣 Languages:
     - 🇬🇧 English
