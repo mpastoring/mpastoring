@@ -1,5 +1,8 @@
 ### Hi! 👋 I'm Manuel Pastor, a frontend developer aspiring to turn ideas into digital experiences.
 
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-manuelpastor.vercel.app/api?username=manuelpastorringuelet&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🌱 Currently Working On:
     - 🌐 [My personal website](https://www.manuelringuelet.com/)
     - 🚀 [discord-clone](https://github.com/manuelpastorringuelet/discord-clone)
@@ -22,9 +25,6 @@
 
 - 📫 Contact:
     - ✉️ manuelringuelet@proton.me
-
-- ⚡ Fun Fact:
-    - 🥦 I've never eaten meat in my entire life!
 
 <h3 align="left">⚗️ My Tools:</h3>
 
