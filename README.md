@@ -1,8 +1,9 @@
 ### Hi! 👋 I'm Manuel Pastor, a frontend developer aspiring to turn ideas into digital experiences.
 
 - 🌱 Currently Working On:
-    - 🌐 [My personal website](https://www.manuelringuelet.com/)
-    - 🚀 [discord-clone](https://github.com/manuelpastorringuelet/discord-clone)
+    - 🌐 [My personal website](https://www.manuelringuelet.com/) - [GitHub Repo](https://github.com/manuelpastorringuelet/personal-portfolio)
+    - 🎭 [An Opera Singuer Website](https://taryn-knerr.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/opera-singer-website)
+    - 🏋️‍♂️ [1% Atomic Habits WPA](https://atomic-habits-1.vercel.app/)  - [GitHub Repo](https://github.com/manuelpastorringuelet/atomic-habits-1) 
 
 - 🎓 I graduated from Code Camp at [Devhaus](https://devhausleipzig.de/) with our full-stack projects:
     - 🎦 Middle term: [Cinescape](https://camp9-midterm-frontend.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/camp9-midterm) - Cinema booking web app.
