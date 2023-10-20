@@ -24,7 +24,7 @@
 - 📫 Contact:
     - ✉️ manuelringuelet@proton.me
  
-[![Anurag's GitHub stats](https://github-readme-stats-git-master-manuelpastor.vercel.app/api?username=manuelpastorringuelet&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=manuelpastor&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">⚗️ My Tools:</h3>
 
