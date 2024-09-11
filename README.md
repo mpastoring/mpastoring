@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Manuel Pastor, a frontend developer aspiring to turn ideas into digital experiences.
+### Hi! 👋 I'm Manuel Pastor, a Software Engineer turning ideas into digital experiences.
 
 - 🌱 Currently Working On:
     - 🌐 [My personal website](https://www.manuelringuelet.com/) - [GitHub Repo](https://github.com/manuelpastorringuelet/personal-portfolio)
