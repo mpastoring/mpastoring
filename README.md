@@ -2,16 +2,6 @@
 
 - 🌱 Currently Working On:
     - 🌐 [My personal website](https://www.manuelringuelet.com/) - [GitHub Repo](https://github.com/manuelpastorringuelet/personal-portfolio)
-    - 🎭 [An Opera Singuer Website](https://taryn-knerr.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/opera-singer-website)
-    - 🏋️‍♂️ [1% Atomic Habits WPA](https://atomic-habits-1.vercel.app/)  - [GitHub Repo](https://github.com/manuelpastorringuelet/atomic-habits-1) 
-
-- 🎓 I graduated from Code Camp at [Devhaus](https://devhausleipzig.de/) with our full-stack projects:
-    - 🎦 Middle term: [Cinescape](https://camp9-midterm-frontend.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/camp9-midterm) - Cinema booking web app.
-    - 🎉 Final: [d'accord](https://github.com/manuelpastorringuelet/camp9-final-project) - A voting web app.
-
-- 🚀 Recently Finished Personal Projects:
-    - 🎵 [spotify-clone](https://spotify-clone-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/spotify-clone) - A full-stack Spotify clone.
-    - 🧠 [genius-ai](https://genius-ai-manuelpastor.vercel.app/) - [GitHub Repo](https://github.com/manuelpastorringuelet/ai-saas) - An AI-powered software as a service (SaaS) application.
 
 - 🌟 Learning:
     - 📚 Typescript, Next.js, and React.js.
@@ -20,9 +10,6 @@
     - 🇬🇧 English
     - 🇪🇸 Spanish
     - 🇩🇪 German
-
-- 📫 Contact:
-    - ✉️ manuelringuelet@proton.me
  
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=manuelpastor&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
