@@ -1,10 +1,8 @@
-### Hi! 👋 I'm Manuel Pastor, a Software Engineer turning ideas into digital experiences.
+### Hi! 👋 I'm Manuel Pastor, a Web Dev turning ideas into digital experiences.
 
-- 🌱 Currently Working On:
-    - 🌐 [My personal website](https://www.manuelringuelet.com/) - [GitHub Repo](https://github.com/manuelpastorringuelet/personal-portfolio)
-
-- 🌟 Learning:
-    - 📚 Typescript, Next.js, and React.js.
+- 💼 [Opera Singer](https://www.tarynknerr.com/) - [GitHub Repo](https://github.com/mpastoring/opera-singer-website)
+- 🌐 [My personal website](https://www.manuelringuelet.com/) - [GitHub Repo](https://github.com/manuelpastorringuelet/personal-portfolio)
+- 🎧 [DJ Maradoca's website](https://www.maradoca.com/) - [GitHub Repo](https://github.com/mpastoring/maradoca)
 
 - 🗣 Languages:
     - 🇬🇧 English
