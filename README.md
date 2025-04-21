@@ -8,8 +8,6 @@
     - 🇬🇧 English
     - 🇪🇸 Spanish
     - 🇩🇪 German
- 
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=manuelpastor&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">⚗️ My Tools:</h3>
 
